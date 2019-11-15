@@ -1,0 +1,11 @@
+:root {
+    --baseline: .25rem; /* 4px */
+    --baseline-2: .5rem; /* 8px */
+    --baseline-3: .75rem; /* 12px */
+    --baseline-4: 1rem; /* 16px */
+    --baseline-6: 1.5rem; /* 24px */
+    --baseline-8: 2rem; /* 32px */
+    --baseline-9: 2.25rem; /* 36px */
+    --baseline-11: 2.75rem; /* 44px */
+    --baseline-12: 3rem; /* 48px */
+}
